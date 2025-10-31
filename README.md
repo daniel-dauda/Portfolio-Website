@@ -1,2 +1,12 @@
-# Portfolio-Website
-My personal web developer portfolio built with HTML, and CSS
+# Personal Portfolio
+
+This is my personal portfolio website built using HTML and CSS.
+
+## Features
+- About Me Section
+- Projects Section
+- Contact Section
+
+## Tools Used
+- HTML
+- CSS
